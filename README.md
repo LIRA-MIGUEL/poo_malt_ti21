@@ -1,2 +1,7 @@
-# poo_malt_ti21
-Repositorio para almacenar las prácticas de la materia de programación orientada a objetos 
+# Curso de Programacion Orientada a Objetos 
+
+## Indice 
+
+|No1.|Archivo|Descripcion|
+|--|--|--|
+|1.|programa0.py|Hola mundo en python|
