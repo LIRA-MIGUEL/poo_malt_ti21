@@ -9,8 +9,18 @@ numero2=5
 print("{}+{}=".format(numero1,numero2,numero1+numero2))#solo imprime la suma 
 print("{}+{}={}".format(numero1,numero2,numero1+numero2))
 print("{n1}+{n2}={suma}".format(n1=numero1,n2=numero2,suma=numero1+numero2))
-print("{n2}+{n2}={n2}".format(n1=numero1,n2=numero2,suma=numero1+numero2))#canbiando las variables usando el nombre 
+print("{n2}+{n2}={n2}".format(n1=numero1,n2=numero2,suma=numero1+numero2))#canbiando las variables usando el nombre, se cambio el n1,n2, suma por el n2
 print("{n1}+{n2}={suma}".format(n1=numero1,n2=numero2,suma=numero1+numero2)) #key error es cuando no encuentra la varible o no esta signada 
 print("{n1}+{n2}={suma}".format(n1=numero1,n2=numero2,suma=numero1+numero2))
 print("{numero1}+{numero2}={suma}".format(numero1=numero1,numero2=numero2,suma=numero1+numero2))# se reemplazaron los n1 por el nombre completo,dando el mismo resultado
 print("{}+{}={}".format(numero1,numero2,numero1+numero2))#no funciona por que no se crean variables, {numero1},{numero2}
+x=8
+x -=2
+print(x)
+x /=3
+print(x)
+x **=5
+print(x)#in place operators
+x="a"
+x*=3
+print(x)

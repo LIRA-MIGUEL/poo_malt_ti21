@@ -9,3 +9,4 @@
 |3.|programa2.py|concatenacion usando format|
 |4.|programa3.py|print y operaciones aritmeticas|
 |5.|programa4.py|print|
+|6.|programa5.py| uso del input e int|
