@@ -10,3 +10,4 @@
 |4.|programa3.py|print y operaciones aritmeticas|
 |5.|programa4.py|print|
 |6.|programa5.py| uso del input e int|
+|7.|programa6.py|calcular el area y perimetro de un triangulo|
