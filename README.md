@@ -11,3 +11,4 @@
 |5.|programa4.py|print|
 |6.|programa5.py| uso del input e int|
 |7.|programa6.py|calcular el area y perimetro de un triangulo|
+|8.|programa7.py|calcular el area y perimetro de un circulo y cuadrado|
