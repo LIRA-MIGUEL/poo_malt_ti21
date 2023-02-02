@@ -12,3 +12,4 @@
 |6.|programa5.py| uso del input e int|
 |7.|programa6.py|calcular el area y perimetro de un triangulo|
 |8.|programa7.py|calcular el area y perimetro de un circulo y cuadrado|
+|9.|programa8.py|programa de python que compare 2 numeros|
