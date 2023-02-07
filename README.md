@@ -13,3 +13,4 @@
 |7.|programa6.py|calcular el area y perimetro de un triangulo|
 |8.|programa7.py|calcular el area y perimetro de un circulo y cuadrado|
 |9.|programa8.py|programa de python que compare 2 numeros|
+|10.|programa9.py|formas de resolver el ejercicio|
