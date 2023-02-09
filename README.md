@@ -14,3 +14,4 @@
 |8.|programa7.py|calcular el area y perimetro de un circulo y cuadrado|
 |9.|programa8.py|programa de python que compare 2 numeros|
 |10.|programa9.py|formas de resolver el ejercicio|
+|11.|programa11.py|solucion usando funciones|
