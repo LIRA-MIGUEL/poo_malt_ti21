@@ -4,7 +4,7 @@ Nombre:Miguel Angel Lira Tellez
 Fecha:7/0/2023
 Descripcion: Formas de resolver un problema 
 """
-def mayor(numero1:int,numero2:int)->int|None:
+def mayor(numero1:int,numero2:int)
      result=None
      if numero1>numero2:
         result=numero1
