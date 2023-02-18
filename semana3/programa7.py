@@ -1,5 +1,5 @@
 """
-programa5.py 
+programa7.py 
 Nombre:Miguel Angel Lira Tellez
 Fecha:31/01/2023
 Descripcion: Calcular el area y perimetro de un circulo y un cuadrado 
@@ -20,7 +20,7 @@ pi=3.1416#se da valor a pi
 diametro=2 #asigne el valor dos a dimetro ya que es el doble del radio 
 area=pi*radio**2#pi por radio elevado al cuadrado 
 perimetro=pi*diametro*(radio)#pi por el diametro por el radio ya que es doble  
-print("el area de un circulo es={}".format(area))
+print("el area de un circulo es={}".format(area)) #se usa el format para concatenar valores 
 print("el perimetro de un circulo es={}".format(perimetro))
 
 
