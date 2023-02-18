@@ -19,13 +19,13 @@ numero2=int(input("numero2: "))
 multiplicacion=numero1*numero2
 print(multiplicacion)
 
-numero1=int(input("numero1: "))
-numero2=int(input("numero2: "))
+numero1=int(input("numero1: ")) #se asignan dos valores para hacer una division 
+numero2=int(input("numero2: ")) #con el comando int asignas el tipo de la variable y con el input nos permite asignar un valor 
 division=numero1/numero2
 print(division)
 
-numero1=int(input("numero1: "))
+numero1=int(input("numero1: ")) # el input nos permite asignar un valor cualquiera y ya no un valor fijo
 numero2=int(input("numero2: "))
-exponente=numero1**numero2
-print(exponente)
+exponente=numero1**numero2 # con estos simbolos ** se eleva un numero 
+print(exponente) # imprime el exponente del resultado 
 
