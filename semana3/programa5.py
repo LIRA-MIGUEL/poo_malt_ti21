@@ -14,7 +14,7 @@ numero2=int(input("numero2: "))
 resta=numero1-numero2# (int) tipo de dato al que quiero convertir
 print(resta) 
 
-numero1=int(input("numero1: "))
+numero1=int(input("numero1: "))#se asignaron los valores usando input es decir que puedes escribir un valor cualquiera mientras sea entero
 numero2=int(input("numero2: "))
 multiplicacion=numero1*numero2
 print(multiplicacion)
