@@ -1,5 +1,5 @@
 """
-programa5.py 
+programa6.py 
 Nombre:Miguel Angel Lira Tellez
 Fecha:30/01/2023
 Descripcion: calcular el area y perimetro de un triangulo
@@ -12,3 +12,4 @@ area=(base*altura)/2
 perimetro=lado1+lado2+base
 print("el area es ={}".format(area))# el comando format es para incluir cadenas de texto, se da el valor del area 
 print("el perimetro es={}".format(perimetro))# te da el valor del perimetro 
+
