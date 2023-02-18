@@ -1,5 +1,5 @@
 """
-programa5.py 
+programa8.py 
 Nombre:Miguel Angel Lira Tellez
 Fecha:02/02/2023
 Descripcion: Uso del if, else.
@@ -10,7 +10,7 @@ Descripcion: Uso del if, else.
 numero1=int(input("numero1: "))
 numero2=int(input("numero2: ")) # se asignan las variables en este caso numero1 y numero2
 if numero1 > numero2: # con el if se aplica la condicion, se pone la primera condicion e imprime
-        print(numero1)
+        print(numero1) # el if se usa para asignar una condicion, si no se cumple esta pasa a la siguiente condicion 
 if numero2>numero1: #en esta linea se asigna la segunda condicion y se imprime 
         print(numero2)
 if numero1==numero2: # se imprime la otra condicion con los simbolos igual o doble igual 
