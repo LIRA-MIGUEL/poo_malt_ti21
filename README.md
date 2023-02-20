@@ -15,3 +15,4 @@
 |9.|programa8.py|programa de python que compare 2 numeros|
 |10.|programa9.py|formas de resolver el ejercicio|
 |11.|programa10.py|solucion usando funciones|
+|12.1programa11.py|se puso a prueba otra forma de resolver el prgrama11.py|
